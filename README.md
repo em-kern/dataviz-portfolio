@@ -8,30 +8,27 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool dataviz work will go. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Emily Kern (she/her). I'm currently getting a Master's in Public Policy and Management at Carnegie Mellon and will graduate in May 2026. 
+
+I'm passionate about urban policy and creating cities that will last into the future, and have a decade of experience in health care, real estate, higher education, and affordable housing. Some of the courses I've loved while in school are: Geographic Information Systems (GIS), Management Science, and Statistics with R.
+
+Outside of school I knit, do some blues and swing dancing, walk around my local parks and neighborhood, and hang out with my two cats.
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+In this class I hope to learn the building blocks for clear visual communication. How can I balance my message, along with solid and trustworthy data, along with design? Alongside solid basics I'd like to add new softwares and design tools to my toolbox, and have fun playing around with different ways to show information to convey different messages.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After graduation I hope to be using my prior experience and new skills to tackle urban challenges, including climate resiliency, access to green space, land use, housing affordability, and transportation.
 
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+ 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
