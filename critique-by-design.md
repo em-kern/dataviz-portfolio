@@ -2,11 +2,15 @@
 
 # An Exercise in Redesign
 
+
 This page shows my process of redesigning a chart: selection, critical review, sketches and feedback, and a final redesign.
+
 
 ## Step one: the visualization
 
+
 For my redesign, I chose the visualization "The 20 Largest Solar Power Plants in the World" from the Makeover Monday site. The initial visual was really complex, but came from a pretty simple data set, so I was curious to see how I could streamline it and pull out a key message. One of my criteria for choosing a redesign was that it have an expert video, so that I could go compare my work once I was done, and learn some new tools with a data set that I was familiar with. The subject matter is also interesting to me. As the world tries to transition from fossil fuels to renewables, it's interesting to see data on which countries are leading the way, what any trends over time are, and how solar can better scale up while accounting for land sprawl. 
+
 
 ![Largest Solar Plants](largest-solar-plants.png)
 Original vizualization: https://solarpower.guide/solar-energy-insights/largest-solar-plants
@@ -17,13 +21,18 @@ My first impression of the visual was that it's showing a lot of different piece
 
 When thinking about what I would change, I would want to add more context for the audience. What does MWp mean, and why is acreage of the plant important? I also knew that I would end up simplifying the chart into one, so that the audience could get an impression from one glance, and removing some visual frills. 
 
+
 ## Step three: Sketch a solution
+
 
 For my initial sketches, I drew a few representing different measurements. My first was a dual axis bar chart, showing power output and land size of each plant. I also drew a simple descending bar chart of simply the most powerful plants, with small informational blurbs about what an MWp is equivalent to, and which plant was using land most efficiently. My last sketch was a scatterplot showing land efficiency of MWp/acre as a function of power output per plant.
 
+
 ![Redesign Sketches](redesign_sketches.jpg)
 
+
 ## Step four: Test the solution
+
 
 Questions I asked for feedback:
 
@@ -37,7 +46,9 @@ I spoke to three class members for feedback, all master's students in public pol
 
 On the scatterplot, they liked that they could instantly spot a few outliers, and could get an idea that certain plants were more or less powerful, or more or less efficient. One person said the scatterplot made them ask more meaningful questions, like why certain plants were performing better. They also noted that they wanted a more standard title, to let them know that these were the most powerful solar plants, rather than a title that had too much interpretation.
 
+
 ## Step five: build the solution
+
 
 After gathering feedback, I watched the expert tutorial that went along with my data. The tutorial showed some charts that aligned with my sketches, and some new ones that incorporated more interactive elements in Tableau. It was fun to try out drilldowns and adding more Python rules for my data. When picking which chart I wanted to showcase here, I wanted to show the one I had designed myself and that I had gotten good feedback on, so I went off of my scatterplot.
 
@@ -54,6 +65,7 @@ Overall, this was a fun exercise to do, and really helpful to get feedback on my
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 ## References
 
