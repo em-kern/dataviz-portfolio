@@ -20,6 +20,8 @@ When thinking about what I would change, I would want to add more context for th
 
 For my initial sketches, I drew a few representing different measurements. My first was a dual axis bar chart, showing power output and land size of each plant. I also drew a simple descending bar chart of simply the most powerful plants, with small informational blurbs about what an MWp is equivalent to, and which plant was using land most efficiently. My last sketch was a scatterplot showing land efficiency of MWp/acre as a function of power output per plant.
 
+![Redesign Sketches](redesign_sketches.jpg)
+
 ## Step four: Test the solution
 
 Questions I asked for feedback:
