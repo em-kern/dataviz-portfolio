@@ -62,7 +62,3 @@ Data: https://data.world/makeovermonday/2021w37/workspace/file?filename=20+Large
 
 Youtube tutorial: https://www.youtube.com/watch?v=BGCkC56Fysw&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=88
 
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
