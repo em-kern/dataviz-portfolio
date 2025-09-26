@@ -26,9 +26,14 @@ My structure:
 8 - touch on the future of the city as new industries come in and housing demand rises, how we can continue to source local solutions while facing new problems.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+I have some additional chart types to add to these sketches, and will probably remove some that I have here. Ones that I know I will do include showing population trends, likely through a line graph, showing a map of vacant land either nationally or locally, and showing small scale positive externalities of one garden plot, likely through a pictogram.
+
+![story thoughts](IMG_9295.jpg)
+
+![story map](IMG_9296.jpg)
+
+![sketches](IMG_9297.jpg)
 
 # The data
 
@@ -38,7 +43,7 @@ I have public population data showing trends from 1950 to the present in various
 |------|-----|-------------|
 | Lots to Love | https://catalog.data.gov/dataset/lots-to-love | "a guide for community organizations and residents who are interested in transforming vacant lots into well-loved spaces. This data includes vacant lot projects that are implemented, in progress, or just an idea.|
 | Grow Pittsburgh Food Gardens | https://catalog.data.gov/dataset/grow-pittsburgh-food-gardens | "Food growing locations registered with Grow Pittsburgh. Data includes community gardens, community farms, schoolyard gardens, or urban farms. This data is included in Grow Pittsburgh's Grower's Map" |
-| Pittsburgh Metro Area Population | Historical Data | Chart | 1950-2025 | https://www.macrotrends.net/datasets/global-metrics/cities/23100/pittsburgh/population | Shows population change from 1950 to present in Pittsburgh and other American cities |
+| Pittsburgh Metro Area Population Historical Data Chart 1950-2025 | https://www.macrotrends.net/datasets/global-metrics/cities/23100/pittsburgh/population | Shows population change from 1950 to present in Pittsburgh and other American cities |
 | Community gardens and their effects on diet, health, psychosocial and community outcomes: a systematic review | https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13591-1 | Research paper on community garden effects |
 | What gardens grow: Outcomes from home and community gardens supported by community-based food justice organizations | https://pmc.ncbi.nlm.nih.gov/articles/PMC6372235/ | Research paper on effects of community gardens and bounty |
 | Research & Benefits of Community Gardens | https://nccommunitygardens.ces.ncsu.edu/resources-3/nccommunitygardens-research/ | NC State Ext compilation of research |
