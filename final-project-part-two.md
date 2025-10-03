@@ -5,12 +5,12 @@
 I first built the structure of my storyboard through a google document, and then began working in shorthand to finalize the project:
 
 Google doc: https://docs.google.com/document/d/1nbWN3MwTCwJGrmb1U4KWjF72FDfbkJM10fLBNrzXE8s/edit?usp=sharing
+
 Shorthand: https://preview.shorthand.com/LRX7HUndRe9a7xLM
 
 # User research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Target audience 
 
 My target audience is people who live in Rust Belt cities, who want to get more locally involved in their communities and help revitalize their cities. I reached out to classmates, who are new to Pittsburgh and mostly renters, and to a close friend, who has lived in the city a long time and owns a house.
 
@@ -25,9 +25,6 @@ My main goal was to see what the effect of my story was on others. Did it make s
 | See my blindspots | Is there anything missing? What are your overall impressions? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 - Public policy graduate student, female | Interview 2 - Information systems graduate student, female | Interview 3 - nurse, female, homeowner and local resident |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -37,9 +34,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -54,6 +48,4 @@ I was glad to get a lot of feedback about the flow of the story, as that was som
 # Moodboards / personas
 
 I want to primarily use greens (gardening, revitalization, growth), rust/browns/reds (industry, deterioration, earth, red vegetables), and grey (background, iron, steel). 
-## References
-_List any references you used here._
 
